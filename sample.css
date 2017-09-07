@@ -10,11 +10,20 @@
     font-size:;
 }
 
+box1 img.migi{
+    float:right;
+    margin-left: 0px;
+    margin: 0;
+
+}
+
+
 .box1 p {
     margin: 0;
     margin-right: 0px;
     padding: 0;
     text-align:left;
+    overflow: hidden;
 }
 
 
