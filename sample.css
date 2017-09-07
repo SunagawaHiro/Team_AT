@@ -1,7 +1,8 @@
 .box1 {
-    padding: 0.5em 1em;
+    padding: 0.5em 5em;
     margin: 2em 0;
     border: double 5px #4ec4d3;    
+    position: relative;
 }
 .box1 h1.title {
     margin: 0; 
@@ -10,11 +11,31 @@
     font-size:;
 }
 
+.box1 img {
+  position: absolute;
+  display: block;
+  width: 400px;
+  height: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: -400;
+  margin: auto;
+}
+/*.box1 img{
+    position: absolute;
+    left: 50%;
+    margin-left: -400px;
+
+}*/
+
+
 .box1 p {
     margin: 0;
-    margin-right: 0px;
+    margin-right: 500px;
     padding: 0;
-    text-align:left;
+    text-align: left;
+    overflow: hidden;
 }
 
 
