@@ -1,0 +1,39 @@
+.box1 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    border: double 5px #4ec4d3;    
+}
+.box1 h1.title {
+    margin: 0; 
+    padding: 0;
+    text-align:left;
+    font-size:;
+}
+
+.box1 p {
+    margin: 0;
+    margin-right: 0px;
+    padding: 0;
+    text-align:left;
+}
+
+
+.box2 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    border: double 5px #4ec4d3;
+}
+.box2 p {
+    margin: 0; 
+    padding: 0;
+}
+
+.box3 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    border: double 5px #4ec4d3;
+}
+.box3 p {
+    margin: 0; 
+    padding: 0;
+}
