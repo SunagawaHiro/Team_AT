@@ -1,5 +1,6 @@
 .box1 {
-    padding: 0.5em 5em;
+    /*    padding: 0.5em 5em;*/
+    padding: 100px 5em;
     margin: 2em 0;
     border: double 5px #4ec4d3;    
     position: relative;
@@ -39,6 +40,8 @@
 }
 
 
+
+/*
 .box2 {
     padding: 0.5em 1em;
     margin: 2em 0;
@@ -48,6 +51,7 @@
     margin: 0; 
     padding: 0;
 }
+*/
 
 .box3 {
     padding: 0.5em 1em;
