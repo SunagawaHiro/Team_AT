@@ -1,0 +1,36 @@
+.box1 {
+    padding: 50px 5em;
+    margin: 2em 0;
+    border: double 5px #4ec4d3;    
+    position: relative;
+}
+.box1 h2.title {
+    margin: 0; 
+    padding: 0;
+    text-align:left;
+    font-size:;
+}
+
+.box1 img {
+  position: absolute;
+  display: block;
+  width: 400px;
+  height: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: -400;
+  margin: auto;
+}
+
+
+.box1 p {
+    margin: 0;
+    margin-right: 500px;
+    padding: 0;
+    text-align: left;
+    overflow: hidden;
+}
+
+
+
